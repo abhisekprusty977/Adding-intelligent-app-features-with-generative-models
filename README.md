@@ -6,3 +6,4 @@ Generate trip itineraries tailored to a chosen landmark,
 Discover points of interest using a custom tool,
 Experience real-time content generation with streaming responses.
 
+<img width="5629" height="5000" alt="Untitled diagram-2026-02-12-142415" src="https://github.com/user-attachments/assets/97c4533c-ec7a-426c-b783-45cb114f8748" />
